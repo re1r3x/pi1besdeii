@@ -80,3 +80,8 @@ img.birthday {
 body.play-music {
   animation: fadeIn 2s ease-in-out; /* Adjust the animation duration and timing function as needed */
 }
+ .spotify-embed {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+        }
